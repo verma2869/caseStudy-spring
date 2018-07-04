@@ -1,0 +1,26 @@
+.container {
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+
+table {
+    width: 100%;
+}
+
+table tr td {
+    padding-left: 10px;
+}
+
+.hiddenElement{
+    display: none;
+    visibility: hidden;
+}
+#metadata {
+    position: relative;
+    margin-top: 10px;
+}
+#dataValidation {
+    position: relative;
+    margin-top: 10px;
+}
